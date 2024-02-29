@@ -1,0 +1,15 @@
+body{
+    background-image: url("./images/DSC06505.JPG"  );
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
+.AIML{
+    color: greenyellow;
+    font-size: 50px;
+}
+#mohan{
+    color: brown;
+    font-style: oblique;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
